@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="z123456@192.168.131.128:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="z123456@192.168.131.128:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/z123456/文档" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="z123456@192.168.131.128:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/z123456/文档" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
