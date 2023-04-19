@@ -111,6 +111,8 @@ def count_sort(arrlist):
 if __name__ == '__main__':
     list1 = []
     for i in range(13):
+        
+        #accquire
         list1.append(random.randint(0, 100))
     print(list1)
     bubble(list1)
